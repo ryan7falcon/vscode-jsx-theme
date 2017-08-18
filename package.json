@@ -1,0 +1,29 @@
+{
+	"name": "Theme-myTheme",
+	"displayName": "myTheme Theme",
+	"description": "myTheme Theme ported from the FlatlandDark TextMate Theme",
+	"version": "0.0.1",
+	"publisher": "gerane",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"homepage": "",
+	"contributes": {
+		"themes": [
+			{
+				"label": "myTheme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/myTheme.tmTheme"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "3e40663a-301a-4025-9b50-1677b8a90b81",
+		"publisherId": "a5c25faf-bf60-4941-81b9-9a852b96c5fb",
+		"publisherDisplayName": "gerane"
+	}
+}
